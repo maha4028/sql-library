@@ -5,7 +5,7 @@ FROM employee_salary
 WHERE salary >= 50000
 ;
 
--- USE Park_and_Recreation;
+-- USE pandr;
 CREATE PROCEDURE high_salary()
 SELECT *
 FROM employee_salary
