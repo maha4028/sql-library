@@ -60,4 +60,4 @@ INNER JOIN parks_departments pd
 	ON sal.dept_id = pd.department_id
 ;
 
-SELECT * FROM parks_departments
+SELECT * FROM pandr
