@@ -27,4 +27,4 @@ FROM employee_salary
 SELECT *
 FROM employee_salary;
 SELECT *
-FROM parks_departments;
+FROM pks_departments;
